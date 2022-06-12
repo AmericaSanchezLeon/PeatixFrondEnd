@@ -5,7 +5,7 @@ This is the Peatix front end test :)
 - NPM 
 - React (Hooks, states & JSX)
 - CSS
-- Styled components 
+ 
 
-If you want to see the application running please visit:
+It was deployed with github pages so if you want to see the application running please visit:
 https://americasanchez.github.io/PeatixFrondEnd/
