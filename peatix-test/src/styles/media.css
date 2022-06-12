@@ -1,0 +1,12 @@
+@media only screen and (max-width: 600px) {
+    .header__img{
+        height: 80%;
+      }
+
+      header{
+        height: 5vh;
+        box-shadow:  2px 2px var(--green);
+        padding: 1rem;
+      }
+      
+  }
