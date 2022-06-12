@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/PeatixFrondEnd/static/css/main.073c9b0a.css",
-    "main.js": "/PeatixFrondEnd/static/js/main.0c3380a8.js",
+    "main.css": "/PeatixFrondEnd/static/css/main.c8d9b27f.css",
+    "main.js": "/PeatixFrondEnd/static/js/main.9058f181.js",
     "static/js/787.57e6e995.chunk.js": "/PeatixFrondEnd/static/js/787.57e6e995.chunk.js",
-    "static/media/logo.svg": "/PeatixFrondEnd/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/peatix-logo.svg": "/PeatixFrondEnd/static/media/peatix-logo.e60aa654c4c42c9b0f99074a66552e95.svg",
     "index.html": "/PeatixFrondEnd/index.html",
-    "main.073c9b0a.css.map": "/PeatixFrondEnd/static/css/main.073c9b0a.css.map",
-    "main.0c3380a8.js.map": "/PeatixFrondEnd/static/js/main.0c3380a8.js.map",
+    "main.c8d9b27f.css.map": "/PeatixFrondEnd/static/css/main.c8d9b27f.css.map",
+    "main.9058f181.js.map": "/PeatixFrondEnd/static/js/main.9058f181.js.map",
     "787.57e6e995.chunk.js.map": "/PeatixFrondEnd/static/js/787.57e6e995.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.0c3380a8.js"
+    "static/css/main.c8d9b27f.css",
+    "static/js/main.9058f181.js"
   ]
 }
